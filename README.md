@@ -73,6 +73,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/CGdiego/CGdiego/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/CGdiego/CGdiego/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/CGdiego/CGdiego/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
 
 ###
