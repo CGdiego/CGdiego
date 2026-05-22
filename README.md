@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CGdiego.CGdiego"  />
+  <img src="https://count.getloli.com/@:CGdiego?theme=e621&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
