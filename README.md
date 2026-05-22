@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:CGdiego?theme=e621&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=CGdiego.CGdiego&"  />
 </div>
 
 ###
@@ -58,6 +58,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
 </div>
