@@ -5,15 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/cgdiego/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://count.getloli.com/@:CGdiego?theme=e621&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <a href="https://www.linkedin.com/in/cgdiego/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logoColor=white" height="28" alt="linkedin" /></a><img width="6" /><a href="https://charmandercg.itch.io" target="_blank"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white" height="28" alt="itch.io" /></a>
 </div>
 
 ###
