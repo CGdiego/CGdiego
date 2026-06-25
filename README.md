@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/cgdiego/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logoColor=white" height="28" alt="linkedin" /></a><img width="6" /><a href="https://charmandercg.itch.io" target="_blank"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white" height="28" alt="itch.io" /></a>
+  <a href="https://www.linkedin.com/in/cgdiego/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logoColor=white" height="28" alt="linkedin" /></a><img width="6" /><a href="https://dcg-dev.itch.io" target="_blank"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white" height="28" alt="itch.io" /></a>
 </div>
 
 ###
