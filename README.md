@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nvidia" height="40" alt="nvidiacuda logo"  />
   <img width="12" />
-  <img src="https://www.nicepng.com/png/full/343-3436652_ue-logo-unreal-engine-icon.png" height="40" alt="unrealengine logo"  />
+  <img src="https://github.com/user-attachments/assets/a45bb2e7-6610-435f-b77f-019543c09c3f" height="40" alt="unrealengine logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
@@ -49,7 +49,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
   <img width="12" />
