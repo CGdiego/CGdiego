@@ -22,7 +22,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=vue-dark&hide_border=false&exclude_repo=Stickman-Arena,Mini-Scratch-Games,Kirby-Fruit-Madness
           path: dist/languages.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       - name: Push languages.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
