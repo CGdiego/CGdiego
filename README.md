@@ -1,8 +1,6 @@
-<!-- 
 <div align="center">
   <img width="426" height="240" alt="Char" src="https://github.com/user-attachments/assets/460db36c-1b05-4d54-9462-e547d3994c14" />
 </div>
--->
 
 ###
 
