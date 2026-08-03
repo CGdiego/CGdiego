@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- 📚 Atualmente estou aprendendo principalmente Python e Processing. <br>- 🎮 Adoro fazer jogos e programar.<br>- 🎯 Tenho o objetivo de aprender C++, Java e outras linguagens, além de criar diversos softwares e jogos.</p>
+<p align="left">- 📚 Atualmente estou aprendendo C, HTML, CSS, JavaScript, SQL e PHP. <br>- 🎮 Adoro fazer jogos e programar.<br>- 🎯 Tenho o objetivo de aprender C++, Java e outras linguagens, além de criar diversos softwares e jogos.</p>
 
 ###
 
@@ -31,6 +31,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" height="40" alt="processing logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/a45bb2e7-6610-435f-b77f-019543c09c3f" height="40" alt="unrealengine logo"  />
@@ -50,6 +61,8 @@
   <img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/1280px-Logo_Aseprite.svg.png" height="40" alt="aseprite logo"  />
   <img width="12" />
   <img src="https://cdn-1.webcatalog.io/catalog/piskel/piskel-icon-filled-256.png?v=1714775466431" height="40" alt="piskel logo"  />
   <img width="12" />
