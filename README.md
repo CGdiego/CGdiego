@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- 📚 Atualmente estou aprendendo C, HTML, CSS, JavaScript, SQL e PHP. <br>- 🎮 Adoro fazer jogos e programar.<br>- 🎯 Tenho o objetivo de aprender C++, Java e outras linguagens, além de criar diversos softwares e jogos.</p>
+<p align="left">- 📚 As linguagens que estou aprendendo atualmente são C, HTML, CSS, JavaScript, SQL e PHP. <br>- 🎮 Adoro fazer jogos e programar.<br>- 🎯 Tenho o objetivo de aprender C++, Java e outras linguagens, além de criar diversos softwares e jogos.</p>
 
 ###
 
