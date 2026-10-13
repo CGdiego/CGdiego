@@ -1,4 +1,4 @@
-name: Generate Languages Card
+name: Gerar Card de Linguagens
 
 on:
   schedule:
@@ -16,15 +16,15 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate languages.svg
+      - name: Gerar languages.svg
         uses: stats-organization/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&locale=pt-br&hide_title=false&layout=compact&card_width=400&langs_count=12&theme=vue-dark&hide_border=false&hide_progress=true&exclude_repo=Stickman-Arena,Mini-Scratch-Games,Kirby-Fruit-Madness
+          options: username=${{ github.repository_owner }}&locale=pt-br&hide_title=false&layout=compact&card_width=400&langs_count=12&theme=vue-dark&hide_border=false&exclude_repo=Stickman-Arena,Mini-Scratch-Games,Kirby-Fruit-Madness
           path: dist/languages.svg
           token: ${{ secrets.TROPHY_TOKEN }}
 
-      - name: Push languages.svg to output branch
+      - name: Enviar languages.svg para a branch languages-output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: languages-output
