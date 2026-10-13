@@ -17,10 +17,10 @@ jobs:
 
     steps:
       - name: Generate languages.svg
-        uses: stats-organization/github-readme-stats-action@v1 # <-- Updated to the maintained repo
+        uses: stats-organization/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=vue-dark&hide_border=false&exclude_repo=Stickman-Arena,Mini-Scratch-Games,Kirby-Fruit-Madness
+          options: username=${{ github.repository_owner }}&locale=pt-br&hide_title=false&layout=compact&card_width=400&langs_count=12&theme=vue-dark&hide_border=false&hide_progress=true&exclude_repo=Stickman-Arena,Mini-Scratch-Games,Kirby-Fruit-Madness
           path: dist/languages.svg
           token: ${{ secrets.TROPHY_TOKEN }}
 
