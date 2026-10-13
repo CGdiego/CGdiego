@@ -1,4 +1,4 @@
-name: Gerar Card de Linguagens
+name: Generate Languages Card
 
 on:
   schedule:
@@ -16,7 +16,7 @@ jobs:
       contents: write
 
     steps:
-      - name: Gerar languages.svg
+      - name: Generate languages.svg
         uses: stats-organization/github-readme-stats-action@v1
         with:
           card: top-langs
@@ -24,7 +24,7 @@ jobs:
           path: dist/languages.svg
           token: ${{ secrets.TROPHY_TOKEN }}
 
-      - name: Enviar languages.svg para a branch languages-output
+      - name: Push languages.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: languages-output
