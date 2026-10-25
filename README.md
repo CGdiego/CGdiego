@@ -4,6 +4,7 @@
 
 ###
 
+<div align="center">
 </a><img width="6" /><a href="https://dcg-dev.itch.io" target="_blank"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white" height="28" alt="itch.io" /></a>
 </div>
 
